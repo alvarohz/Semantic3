@@ -1,0 +1,6 @@
+a=b
+a=10
+a=toInt("a10")
+b=c
+c=toString(10)
+c=a
